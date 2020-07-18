@@ -1,4 +1,4 @@
-# cypress-slack-reporter-issue
+# cypress-slack-reporter-issues
 
 A place to fork and test out cypress-slack-reporter issues
 
