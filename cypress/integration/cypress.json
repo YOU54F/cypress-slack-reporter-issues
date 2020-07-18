@@ -1,0 +1,3 @@
+{
+  "reporter": "../../node_modules/cypress-multi-reporters"
+}
