@@ -1,0 +1,16 @@
+{
+  "reporterEnabled": "../../../node_modules/mochawesome, ../../../node_modules/mocha-junit-reporters",
+  "reporterOptions": {
+    "mochawesomeReporterOptions": {
+      "reportDir": "results/results_chrome/",
+      "quiet": true,
+      "overwrite": false,
+      "html": false,
+      "json": true
+    },
+    "mochaJunitReporterReporterOptions": {
+      "mochaFile": "results/junits/test_results[hash].xml",
+      "toConsole": false
+    }
+  }
+}

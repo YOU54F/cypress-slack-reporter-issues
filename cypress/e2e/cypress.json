@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://somehost:someport",
+  "testFiles": "**/*.test.js",
+  "chromeWebSecurity": false,
+  "requestTimeout": 60000
+}
