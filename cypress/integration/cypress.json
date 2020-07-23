@@ -6,7 +6,7 @@
     "video": false,
     "reporter": "../../../node_modules/cypress-multi-reporters",
      "reporterOptions": {
-       "reporterEnabled": "../../../node_modules/mochawesome, ../../../node_modules/mocha-junit-reporters"
+       "reporterEnabled": "../../../node_modules/mochawesome, ../../../node_modules/mocha-junit-reporter"
      },
     "firefoxGcInterval": null
 }

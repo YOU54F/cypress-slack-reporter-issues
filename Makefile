@@ -12,4 +12,4 @@ generate-fail-script:
 	SPECS='cypress/integration/fail/*' ts-node script.ts
 
 test-multi-reporters:
-	./node_modules/.bin/cypress run --reporter-options configFile=reporterOpts.json --project ./cypress/integration
+	./node_modules/.bin/cypress run --reporter-options configFile=chromeReportconfig.json --project ./cypress/integration

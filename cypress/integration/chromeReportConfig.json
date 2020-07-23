@@ -1,5 +1,5 @@
 {
-  "reporterEnabled": "../../../node_modules/mochawesome, ../../../node_modules/mocha-junit-reporters",
+  "reporterEnabled": "../../../node_modules/mochawesome, ../../../node_modules/mocha-junit-reporter",
   "reporterOptions": {
     "mochawesomeReporterOptions": {
       "reportDir": "results/results_chrome/",
