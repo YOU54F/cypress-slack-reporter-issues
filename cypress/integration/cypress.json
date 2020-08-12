@@ -1,13 +1,9 @@
 {
-    "baseUrl": "http://localhost:4200",
-    "testFiles": "**/*.test.js",
-    "chromeWebSecurity": true,
-    "requestTimeout": 90000,
-    "video": false,
-    "reporter": "../../../node_modules/cypress-multi-reporters",
-     "reporterOptions": {
-       "reporterEnabled": "../../../node_modules/mochawesome, ../../../node_modules/mocha-junit-reporter"
-     },
-    "firefoxGcInterval": null
+  "baseUrl": "http://google.com",
+  "testFiles": "**/*.test.js",
+  "chromeWebSecurity": true,
+  "requestTimeout": 90000,
+  "video": false,
+  "reporter": "../../node_modules/cypress-multi-reporters",
+  "firefoxGcInterval": null
 }
-

@@ -1,16 +1,14 @@
 {
-  "reporterEnabled": "../../../node_modules/mochawesome, ../../../node_modules/mocha-junit-reporter",
-  "reporterOptions": {
-    "mochawesomeReporterOptions": {
-      "reportDir": "results/results_chrome/",
-      "quiet": true,
-      "overwrite": false,
-      "html": false,
-      "json": true
-    },
-    "mochaJunitReporterReporterOptions": {
-      "mochaFile": "results/junits/test_results[hash].xml",
-      "toConsole": false
-    }
+  "reporterEnabled": "mochawesome, mocha-junit-reporter",
+  "mochawesomeReporterOptions": {
+    "reportDir": "results/results_chrome/",
+    "quiet": true,
+    "overwrite": false,
+    "html": false,
+    "json": true
+  },
+  "mochaJunitReporterReporterOptions": {
+    "mochaFile": "results/junits/test_results[hash].xml",
+    "toConsole": false
   }
 }
