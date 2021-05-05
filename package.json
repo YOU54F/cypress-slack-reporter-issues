@@ -6,7 +6,7 @@
   "devDependencies": {
     "@types/node": "10.17.59",
     "cypress": "4.10.0",
-    "cypress-multi-reporters": "1.4.0",
+    "cypress-multi-reporters": "1.5.0",
     "cypress-slack-reporter": "0.10.0",
     "eslint": "7.4.0",
     "mocha": "8.0.1",
