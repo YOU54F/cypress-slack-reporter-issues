@@ -14,7 +14,7 @@
     "mochawesome": "6.1.1",
     "mochawesome-merge": "4.1.0",
     "mochawesome-report-generator": "5.1.0",
-    "ts-node": "8.10.2"
+    "ts-node": "9.1.1"
   },
   "scripts": {
     "cy:run": "cypress run",
