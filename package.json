@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "devDependencies": {
-    "@types/node": "10.17.59",
+    "@types/node": "10.17.60",
     "cypress": "4.12.1",
     "cypress-multi-reporters": "1.5.0",
     "cypress-slack-reporter": "0.10.0",
